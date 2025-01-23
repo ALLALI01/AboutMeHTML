@@ -1,0 +1,14 @@
+body {
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    list-style-position: center;
+}
